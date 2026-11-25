@@ -1,1 +1,0 @@
-Copy the Reconnectible Chains Fabric 26.3 .jar (2.4.3 or newer) from your modpack's mods folder into this folder.
