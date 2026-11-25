@@ -1,0 +1,12 @@
+# Build output and Gradle cache
+build/
+.gradle/
+run/
+
+# Reconnectible Chains jar used only for compiling - not ours to redistribute
+libs/*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
