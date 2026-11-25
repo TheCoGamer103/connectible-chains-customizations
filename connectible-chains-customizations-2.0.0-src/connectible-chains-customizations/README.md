@@ -4,8 +4,6 @@
 
 An addon for **Reconnectible Chains** (Minecraft 26.3, Fabric Loader 0.20.1). It picks which items can hang on chains, whether each one is drawn as its block or its item texture, and its scale, offset and rotations. Everything is set from an in-game menu.
 
-It replaces the old `hangable_items` datapack.
-
 ## Dependencies
 
 Install all of these on **both the server and every client**:
